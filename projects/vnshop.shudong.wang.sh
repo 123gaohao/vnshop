@@ -1,11 +1,11 @@
 #!/bin/bash
 
-WEB_PATH='/home/wwwroot/x-shop/'
-WEB_PATH_CLIENT='/home/wwwroot/x-shop/client'
+WEB_PATH='/home/wwwroot/vnshop/'
+WEB_PATH_CLIENT='/home/wwwroot/vnshop/client'
 WEB_USER='www'
 WEB_USERGROUP='www'
 
-echo "Start deployment shop.gaohao.cc"
+echo "Start deployment shudong.wang"
 cd $WEB_PATH
 echo "pulling source code..."
 # git reset --hard origin/release

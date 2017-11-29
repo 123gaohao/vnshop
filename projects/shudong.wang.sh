@@ -1,10 +1,10 @@
 #!/bin/bash
 
-WEB_PATH='/home/wwwroot/shop.gaohao.cc'
+WEB_PATH='/home/wwwroot/shudong.wang'
 WEB_USER='root'
 WEB_USERGROUP='root'
 
-echo "Start deployment shop.gaohao.cc"
+echo "Start deployment shudong.wang"
 cd $WEB_PATH
 echo "pulling source code..."
 # git reset --hard origin/release
