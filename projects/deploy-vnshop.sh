@@ -1,9 +1,9 @@
 #!/bin/bash
- 
+
 WEB_PATH='/home/wwwroot/deploy-vnshop'
 WEB_USER='root'
 WEB_USERGROUP='root'
- 
+
 echo "Start deployment deploy"
 cd $WEB_PATH
 echo "pulling source code..."
